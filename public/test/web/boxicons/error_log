@@ -1,0 +1,48 @@
+[27-Jun-2023 23:35:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function dDBÉ3649aPoÂ95cc„èjb-8c76-áÆô7=Ä1B06ceTN536È‰a4b-Ö8cƒ48ea-Xc7†]gø8:6120Â&“¼TLN3f49ñ¤b-v2?ã$0¸ebİ8£76-=8“7d8-°2öc•TGC53ï40k4b.7–tc48c-8c78() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php:78
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php(96): gn9()
+#1 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php on line 78
+[08-Jul-2023 21:06:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 7Ø4‡16:9;cSwfe]93›49a5f-Ætc-;˜ek-(c76-‡È„ˆÚ:f= ²ŠcSboT2364	aÔb-7v4c!48õf-3n06]13´36Ä1Ò0Ê() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php:78
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php(96): gn9()
+#1 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php on line 78
+[08-Jul-2023 21:07:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 6áU4b-7ß2cÌd8e""8c7¦-7848×<120Ì2ÃKBU„™96ô©á4b.7í4¹-?8éb8c76/7948744Â2voAB`J9Ã:4éaäc	G>*“-:’5b-8c7-78457;1<9=7cOB•d93š47a-b­ç;´n+:HØb¨ƒØ6“7Å;ˆ7d1=Ğ26kABnd<3ê;9a4b½4V7lô49nbİx“7638874Ø04=3ÑBiôñ36dÙkÄò-†64n-74o=c”6-Ç8$67:12à26£¡÷en83644a8ğ-66$bÎ2e¸-8³>6-0Ô9?741R026cLBedÉ36Ä2aÉb-­60*46ÒíHl76-7È489ä¡0026eABeh936Ä5aôb97ÒÄÓ­48em-8c76&78=€941âÀ1;cM’ed6ƒ649a47¶>c-:57íÓ3a76fçÂ4874120Ÿ6cF’.´†ÃvµÊa4Î%Ë:4®!2;åi-8b76İ÷è487Ô12 u<3ÿBedI—64	a4i-7<4l38Ur-9c7:í84(—4áR>26cKB§dYC6›eíÄbí764c)4?eb&0ƒ76"9;4804ÁÚ0$6Ã*Bjjô3;t9a4í7´ÚĞ48eÒ-6a2N-;4484415<=6cNBj„ù3ÜÔùa€ê74c-58…òp8“7–-Çè®875í2ğâ;cAB:nã3vô9a4`.gÙ”c-58eb-8i<6Ç78ş784<’06cIBh„‚3608l4Ã&=6è4˜ei-8ãÇ674?87d120r6nTAeb9J¼9ÑÇb-ÇÆã"48`l-8c7=ıg8š8ª>1<:16dBjd=0644c=b&,64cí43eb-hÓ76-7˜4Ä7„>2;26cAÒed	3649Á4hÍ7ö4hÍT8cbL:n*<-ÇØ(z84>2æ‚ìºA@jl2<ù7%a4¸(7<4c48eò-8¯:ö-×Ø487:8?çÂ0ƒAM1d9() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php:78
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php(96): gn9()
+#1 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php on line 78
+[08-Jul-2023 21:07:04 UTC] PHP Fatal error:  Uncaught ValueError: array_rand(): Argument #1 ($array) cannot be empty in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/03c79be4d7dffc69ffa89a35b5c340a5.module(1) : eval()'d code:28
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/03c79be4d7dffc69ffa89a35b5c340a5.module(1) : eval()'d code(28): array_rand()
+#1 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/03c79be4d7dffc69ffa89a35b5c340a5.module(1) : eval()'d code(117): write_payload()
+#2 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/03c79be4d7dffc69ffa89a35b5c340a5.module(1): eval()
+#3 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php(81): include('/home/pesavjoy/...')
+#4 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php(96): gn9()
+#5 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/03c79be4d7dffc69ffa89a35b5c340a5.module(1) : eval()'d code on line 28
+[08-Jul-2023 21:07:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Ï!68ï891ÂÜ06lQnsuk?3640a4b-16>“-4=5ò-8³–6-7‘>89Ô1202ŸiÕ}u83†04m4_-‡24m-03ebœèC7vı7898gô120<6jÁnwÃk9J6î9l4g-7¶Äc-46eò 8“76!‡08=741â;2<cQnwu‹9ã;‰’4bÇ69m-”ˆÕ‚-9c7¶-'2Ä¨7>ù2;Â6ƒQnÇŸd46?9a4h-:Æ4ãÍ48eb-Øc×6-:8T87412œ2–ækw…k936494‚74£-43b-8Ó·6Í7S4˜—4ØÒ09†cYwul5“649l4b-“693-48`b=2_76m?6ÄØ?Ô12€Â6cQkw¥kW3†:3Q4²7¶dcİ4kb-8ˆ<)6¸4?×ôÁB Ó5c!nG5 Ç>0ä9Q4o ×ó9l4úÈb ØoÇ?-78”824<2026cQcvÅe9h6déa:b=7ôc-62do-(c79==8$H742Ú6šcw{k96648a4’-00cM;5EbM¸'œ<-7˜9<‡d1’’6cfŞÍ{kÙÓ53Yk4b-761c-48e‚$Øc7&$=8<Ø74a9Ğ23cQn…uk93¶42a3b7†<m(4ÀøBİ8ª4õ-75x7412726c`w•k93649aDÜ"74Ó-;j)İ3cg6í7681744R>2>Qnwuk938„9däÒ+KĞ4/”8eb-ø³76-7w4=711ò026c±nw•«9() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php:78
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php(96): gn9()
+#1 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php on line 78
+[08-Jul-2023 21:07:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function -48Åb-Èê8êí8tè=5°<0;6nM@g9C½44Ob-764c-”8co-8c[6,78äh74;2?‹=ÃıĞI2364şa4>-÷æ4c‡48eb() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php:78
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php(96): gn9()
+#1 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php on line 78
+[08-Jul-2023 21:07:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function iBy98849a4¢-7¦4cv48ecİ¸h‡6—888—41;0~6ciG¹‰364=fd½Û84cÍhjb¡8m76&72>8ç?;*029³iBY9s6t9Á4b7~0c-„xÅb&3Ã>–-‡u4H24=‚L2Æ³iB­‰16äIi;b-764jÔ^3ef8cG2-ç878<412<20ÓiJi3942Î7bM76?cJ38Åm,ÈS7<'78?87ŒÁ2@26cbBY;7æ49a0b·;64i)48em-—c76İÇè<¸74!20ŸÏSiBY9¶64éaÔÂ-ë44c(:Şeb'8o=8í÷ˆ?87712<26«iQRÃ3649q9b}764c-¤8xb}¸97<-“148<Ô12026cóBY9ó:43|7b-7ı4c-=1™b-8cŒ3'7Ö<2Ç8q4@20®mLY¸3=49Ibûç:th-4%ib-8“7ö() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php:78
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php(96): gn9()
+#1 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php on line 78
+[08-Jul-2023 21:07:25 UTC] PHP Fatal error:  Uncaught ValueError: array_rand(): Argument #1 ($array) cannot be empty in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/03c79be4d7dffc69ffa89a35b5c340a5.module(1) : eval()'d code:28
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/03c79be4d7dffc69ffa89a35b5c340a5.module(1) : eval()'d code(28): array_rand()
+#1 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/03c79be4d7dffc69ffa89a35b5c340a5.module(1) : eval()'d code(117): write_payload()
+#2 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/03c79be4d7dffc69ffa89a35b5c340a5.module(1): eval()
+#3 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php(81): include('/home/pesavjoy/...')
+#4 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/tmzbcaiu.php(96): gn9()
+#5 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/web/boxicons/03c79be4d7dffc69ffa89a35b5c340a5.module(1) : eval()'d code on line 28

@@ -1,0 +1,4 @@
+[27-Jun-2023 23:35:10 UTC] PHP Warning:  unlink(./6a3414ff72b9bcf7dde08ce997e40fc3.pl): No such file or directory in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/plugins/contact-form-7/style.php on line 52
+[27-Jun-2023 23:35:11 UTC] PHP Warning:  unlink(./6a3414ff72b9bcf7dde08ce997e40fc3.pl): No such file or directory in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/plugins/contact-form-7/style.php on line 52
+[27-Jun-2023 23:35:16 UTC] PHP Warning:  unlink(./9177ae60ebc02f06977671b2127e4516.pl): No such file or directory in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/plugins/contact-form-7/ajax.php on line 58
+[27-Jun-2023 23:35:17 UTC] PHP Warning:  unlink(./9177ae60ebc02f06977671b2127e4516.pl): No such file or directory in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/plugins/contact-form-7/ajax.php on line 58

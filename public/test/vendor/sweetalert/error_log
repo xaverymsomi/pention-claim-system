@@ -1,0 +1,4 @@
+[27-Apr-2023 17:16:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ce() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/vendor/sweetalert/xmgspidf.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/vendor/sweetalert/xmgspidf.php on line 2

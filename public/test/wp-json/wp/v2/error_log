@@ -1,0 +1,8 @@
+[26-Jun-2023 14:17:56 UTC] PHP Fatal error:  Uncaught ValueError: array_rand(): Argument #1 ($array) cannot be empty in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-json/wp/v2/edb89591133bae6d065a9c4ebe4609c5.pl:28
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-json/wp/v2/edb89591133bae6d065a9c4ebe4609c5.pl(28): array_rand()
+#1 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-json/wp/v2/edb89591133bae6d065a9c4ebe4609c5.pl(117): write_payload()
+#2 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-json/wp/v2/xlvnkdvh.php(64): include('/home/pesavjoy/...')
+#3 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-json/wp/v2/edb89591133bae6d065a9c4ebe4609c5.pl on line 28
+[27-Jun-2023 23:35:14 UTC] PHP Warning:  unlink(./edb89591133bae6d065a9c4ebe4609c5.pl): No such file or directory in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-json/wp/v2/xlvnkdvh.php on line 64

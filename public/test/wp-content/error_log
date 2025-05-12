@@ -1,0 +1,42 @@
+[27-Jun-2023 23:35:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ó3;Q-Da75-¢e61-2eA:a4abÕ9ûdp·r9æ?3|2;*f3<0() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php:59
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php(70): od9()
+#1 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php on line 59
+[02-Jul-2023 14:09:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ¢eV9() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php:59
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php(70): od9()
+#1 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php on line 59
+[02-Jul-2023 14:09:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ¢Å-bg69-2ea’d4abº9£Äj7;k13d52à6c00-…e3•'¢b6‰-=ea7a4ÑbJ–ga7Éf8ê2() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php:59
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php(70): od9()
+#1 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php on line 59
+[02-Jul-2023 14:09:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 0+>e90­Rl1U--Õa=q4®bÕ9chSJR·¶a39ğ †32p-4Õ65-jeê9-8•a>É7‘be53kYšz_7Ù¦1´›f>Ğ0):>9B-ie68 "ugjb?abõ…S/S
+YT:yd1h><Ÿf3İ0-4c9-Şe©? <e9b5jÇk)ckcJJT?yf13¤EĞ-™30.-<e5-bh6—-2¥a9ata’e9“tóJz_7Ùd1Ci50-Ñ“=0"1h©bbm&9(8Õn4š­dnU7ÃSDŠT8éf11d5¹&6500-4e95be69a1ea9nÄ±bµ9ciS@Ê79h6350*†300-4e95-ma6-2ed9a4ab•9cd£Jvhg9j!“o5	!7;0:%;E	5-fe6ùÍâec9A”nbeycdYJQ´Ç9f13h9€íz£0 4~99İò%5©2gk74algÙcdãJpT7‰f1Ïe50­680?"*e95*b	–)-2£9a±(¥9ch3OtT÷9fA3dÅ6-:ì00-4e‰5}@U6ù*2e`™3e2g9cdSJz”?¿jİ3d5 !ö31£-ÔbF5-be62-2eo9a4±Bi¹ÑkPJzT79ÀÍçş?µ6300-Kl¹5!bå–9-2ea1a4¡be9ÃdSà&Z÷9f1“T?P-––ĞPİˆe85-be69-2`n9Á>ab•3niYJx]73f‘3då0­d40>-¤Å39İòe:±-âea9aÄÁ`kY¨”SHzT7ùÆ13ô4ğ-63>0-=¥97Ìn…4S-bÅaéa4aÒd9ÂdZJzT7;fÁ0¤57 <3ë?­Ä95+)e–:,2eÍ9a41Òn9cdYJzT70fá3¤50-6300-4h2È bõv8() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php:59
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php(70): od9()
+#1 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php on line 59
+[02-Jul-2023 14:09:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 9c4qbeÙc3E@>f1d›0†S0;!äe95İbk4ù-0el9a4‘bk9cdåY7	m19D5€-6ÌV0-<Õ‰5!²54İ2ea9i4Abe™jdéYG9f:3d0(?30ãi95ò½d70-røeÙaŞa‚eé£dLR7‰m1>„506300Í4U95-bÕ;9|ea9gôae9oDNY'éf9c„50 63>Á-še2õ-og¶yİedùa41be?c‹Y59VáÃd50-630049Å"nU09-?eaÙª×a‚52c¶O™ï9n<?30!5ƒ00}4h9-bÕ:9-2c¡9ñT{U9cÄ/Y75Æ1?de0-6Øô5-:e95”be69-rea7a2‘b…9cd¥™•9¶1“d20+640›() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php:59
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php(70): od9()
+#1 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php on line 59
+[02-Jul-2023 14:09:25 UTC] PHP Fatal error:  Cannot redeclare wo8() (previously declared in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php:41) in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php on line 41
+[02-Jul-2023 14:09:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 00->eûå|bi¦É!ée9f4Ábh2c”Mx5hxë9–Ñ;„¥k93;3%4e3?-ne6ùÍ’bı3kŸabà9ãdMyÕev7™j‘3d%5&F30P)e9K(Ë9u2hf¢aËabU6ldxåbx÷qf;…n”€&630Ûı?s‰5&161-2ehYdêbe>Óg“ØuÒØ÷‰fá3d50*640034eyube89-2Åaå±•ane1cMx¥’x7ßfa=j5:-Æ30?İ4e95-me69-Ùeo9o4ğe8chív•r|73V13de˜-†004µéõ-j5f9-?ea‰a4`ee9cj­~Vb49f13$…0-6ØĞ0"4a<8]båF9() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php:59
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php(70): od9()
+#1 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php on line 59
+[02-Jul-2023 14:09:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bÖ'2Õ>a4Kbe0tïqLepsM;–13¤6‘-6Õà1-é£©5-be6™ ®¾ñk¡ie9ƒÍ¥Jg¡ƒM79f1ƒd10-?Ã¤ğ}4e91Íke59->eb5ñ4abÕ9cÔqOElssGGâ½;8d59-6300-4e‰3-rd29}2…aÔa?%bob¢nq¢IkŒCí7•‘3d50-6ù0Í4e95-bµ69`;eá9a:cbg<n”qEJÛÍsM7=fø¨de0]F300”j9+ng74-1Øa)a4áå	jX¡ND+ss@÷9fÁ8h50() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php:59
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php(70): od9()
+#1 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php on line 59
+[02-Jul-2023 14:09:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 00Í4m95-be†= ‚õj9o4h’e9³»®L79f13´š0*325==µé8$bl60-b±4abe	ckmm79–73ô>0€Ö370éäe:9Æ¢n69-ben4!4ab•=cÊ‡7‰¦1ƒa5-†é30*4h95-be9ä-5¥a9e9!bjéh`m79fûq¤50*6‘008e\…-"h6é 2¥9h¹age9cDš£79ÓÁ345-7800-e59Me6ÙÆÆQ	Ô5abe¤cnj¢g‰f=yd50-6() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php:59
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php(70): od9()
+#1 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/wp-login.php on line 59

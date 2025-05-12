@@ -1,0 +1,79 @@
+[26-Aug-2022 11:54:34 UTC] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/composer/ClassLoader.php(571): include('/home/atlawvoy/...')
+#2 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/atlawvoy/mtmarko-mjimwema.or.tz/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[26-Aug-2022 11:54:39 UTC] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/composer/ClassLoader.php(571): include('/home/atlawvoy/...')
+#2 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/atlawvoy/mtmarko-mjimwema.or.tz/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[26-Aug-2022 11:55:14 UTC] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/composer/ClassLoader.php(571): include('/home/atlawvoy/...')
+#2 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/atlawvoy/mtmarko-mjimwema.or.tz/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[26-Aug-2022 11:55:17 UTC] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/composer/ClassLoader.php(571): include('/home/atlawvoy/...')
+#2 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/atlawvoy/mtmarko-mjimwema.or.tz/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/atlawvoy/mtmarko-mjimwema.or.tz/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[27-Apr-2023 17:12:21 UTC] PHP Fatal error:  Uncaught ValueError: array_rand(): Argument #1 ($array) cannot be empty in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/ehxgyr0i.php(17) : eval()'d code(1) : eval()'d code:28
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/ehxgyr0i.php(17) : eval()'d code(1) : eval()'d code(28): array_rand()
+#1 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/ehxgyr0i.php(17) : eval()'d code(1) : eval()'d code(117): write_payload()
+#2 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/ehxgyr0i.php(17) : eval()'d code(1): eval()
+#3 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/ehxgyr0i.php(17): eval()
+#4 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/ehxgyr0i.php(17) : eval()'d code(1) : eval()'d code on line 28
+[27-Apr-2023 17:16:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function kTv‚I7a^rwJ-‘hbSO-5Yó^E ooâÃh3ZDªVV rYèa@z®Ky;UvÍiGaUxgRÁ^onyO-qUcTE^ncRsd-Zô–Vlyxasw‡Ky-o¯~&©G­Ux‡E-Qi¾†¯©qW() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/ehxgyr0i.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/ehxgyr0i.php on line 17
+[27-Jun-2023 23:35:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function d!ZJúVVØÙ'x»`xFGyı‹dy-H1Bè}@-Q:nÿCMqTÏTˆkrRsb+UD{Væl¹-xapxFKy=ûTz
+IGaHtEİQjnYOI|ºmW?kBâ£k-ZDJVVl¯Ó¸nzˆF;ykTp-	GmUx‹ù-Qjni¯!qûcThhr2sd*ŠmVa{-xa€h¶”y&kev}IGñÅxw)Zêg]Ï-q¥c”hkrXs@†ZCIÖl¹-apuJK -b^v-JGÁxGI-W
+nYO-[hHkrRvd ZDFöViÉ~xgp}FËg"k_6-wGaUŒÊY-CÚd,E-qUsôhkr…n,ZDAZVli øwlÕKy.k„{GGjWxwO-QjnYO-qUoX˜bÌ¢sd-Z¼CVVl-…a}uv°{-k]v+™GaUzw°.QjnYC»yUcTherR“dMZLIV[lÉ((a0˜FyŒcT‚İéHa%hwG-Q
+nY¥ã¬…cthkyRsp%ZÔJ½†lyÀHağrÆKA{ävÍIGm5x\I-QÚWÿ-q^n´k&©]Tƒ·ZJªVæœy-µap FKy ğZv-IGøÈ§)í_jm€o-¾\nT¨arRsd-RJúæ†aw*xi°wVKy-kTsİI×aUxwQgnÉÏ-qUcThoRsd-ÍdDV^l´-xÑpxÖA¹-fTw() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/ehxgyr0i.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/ehxgyr0i.php on line 17

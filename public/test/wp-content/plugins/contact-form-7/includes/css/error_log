@@ -1,0 +1,15 @@
+[08-Jul-2023 21:07:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ¬Â4m6nMlXÖ*j81&3b:‹3İ787j*42l²-Ùc‘1-;6e5e7<¢4f6oİbè¦:juìQ63m4f2?7H0F-4µa2×9cd&-3¦Õ6U7áé?kvñbhfõ¤Õ>Á63b4j8-682f-?2a2="³k<-53eÌeJ12:–6dMkVfZiu81C“l4f’-9F4f-2?a=±9c!1--6µue=‘24­ödMbXfZhÓ3q6ó`4bò'788)-Ü;a29cœñ-;æn;`÷1<¤q6dM‚X¦Zju81=3i4f2->:?†%4Ra2ı™cÁ2-«<Å87á`:dMbXfWj+8!f3Ş:dÂq780fmeÂa6-9|aQ%Õe6u724j9dMitfŠPõ81V=j4Ö2$780f-4<Z2Æ	ccqm5v¥5i9122kVdík¨fZšu86n4¶2780¶-4?cÒ-9³á75öe5e19”fÖdAbx†V,u8á 3’”`2-78=f:Òb:-1ch7-…9o5e÷ 2<k4bX±Z]ufe63b4i8}ƒ8=f-42a<:cd!Ö56Ò5kwa2äf–ô½bVfZgu816“b2-Ü80f¨4òh.9cj1-åvmåeW124Væ)@bYfZJ{”83ÒÈnr(780f,ô3a:!2c‘-56e5o—128f–”Hb…fWnuØ12l4fòóò80–]42a8-IeE5!5Vµ5 ÷<2=¶5dMbXfZeuJ>6<b4f1!78ÀV-=2a2 ãa1í56hõn7=24f6dMdfZÚxØÁ?6b8ä2-7ˆ®fí4=a‚æ9Ñ1Í5–ÿ:Œ'129f8iK"X½ajq=?6ób8Æ2í7X?n-42aş-9aa‘ •6¥5e7124lö´GbVlª`Åx1:3b0Ö‚-<4À6-t2a2-9ca?!E1i5e7124f4D×YfÑby8Gb4¦²-=¨ğj-42-Åca1() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/plugins/contact-form-7/includes/css/style.php:70
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/plugins/contact-form-7/includes/css/style.php(86): ja9()
+#1 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/plugins/contact-form-7/includes/css/style.php on line 70
+[08-Jul-2023 21:07:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ’4&2M˜8Ğc-42a>- Ÿk9-56å5e752<¶¦s816³b\q2-7ø0ö-ä2´22:na1!55å5m:1(4f9dw81ê0b4f"ï78f-42l2-9óa}56Õ5g7;¢$f6cs2Ñ?¾tØ-487f^>2a2%5ó‘;-59e9772gfgiu‚Z;3b™f2İ:4:aÍÔ2[Ú5gb9() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/plugins/contact-form-7/includes/css/style.php:70
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/plugins/contact-form-7/includes/css/style.php(86): ja9()
+#1 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/plugins/contact-form-7/includes/css/style.php on line 70
+[08-Jul-2023 21:07:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 4?aŸ-;cnA@56…5h0>2ôf2gNÈ+63Ò4h5!78=¦-4™2-9ƒda&†lUg7a27f6iò8163b¤fÿW80f­8raò"9Óa1-5–e5n×12-j6dB816“b4f2() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/plugins/contact-form-7/includes/css/style.php:70
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/plugins/contact-form-7/includes/css/style.php(86): ja9()
+#1 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-content/plugins/contact-form-7/includes/css/style.php on line 70

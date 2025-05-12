@@ -1,0 +1,19 @@
+[08-Jul-2023 21:07:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ocbae¤2¹d9-4e57-99¡c!7ii9jdÓ':8?l98bf¢ªeÍ>d49=te:7 931c%³4fj7aÄ479ñ8ebIea"¢an-4c494iÕ7-92Ñ}37cÙ3¡š8=9:8`l98ocbÑ-Tãôy-4e57-Ÿ73c-7ff£adø:ù!Øµb98ojof•'Ôf4;%>…57-Y4^c-8—ff3ad4Ç918ÅbÉfa³bqe-ÍcÔ9=S«97-99ÍØM“7f¶8Áj$7918eb9¸a£Òne½4n49$Äk=?-D1c-3:fæ3ad”8358g69ˆ‘gble 4ct9-4e97&;91c½37Öbaä47<18…Ò=xcÒmÎ() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-json/wp/v2/posts/htmcetfi.php:61
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-json/wp/v2/posts/htmcetfi.php(77): xe9()
+#1 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-json/wp/v2/posts/htmcetfi.php on line 61
+[08-Jul-2023 21:07:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ıÃ0ffÕ‘d37Ñ18kWb)8Ÿc’ag-4õF@ ôeå‡-9áh() in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-json/wp/v2/posts/htmcetfi.php:61
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-json/wp/v2/posts/htmcetfi.php(77): xe9()
+#1 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-json/wp/v2/posts/htmcetfi.php on line 61
+[08-Jul-2023 21:07:14 UTC] PHP Fatal error:  Uncaught ValueError: array_rand(): Argument #1 ($array) cannot be empty in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-json/wp/v2/posts/8b6ead2954d922d7a796b0c34dd0b87a.module(1) : eval()'d code:28
+Stack trace:
+#0 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-json/wp/v2/posts/8b6ead2954d922d7a796b0c34dd0b87a.module(1) : eval()'d code(28): array_rand()
+#1 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-json/wp/v2/posts/8b6ead2954d922d7a796b0c34dd0b87a.module(1) : eval()'d code(117): write_payload()
+#2 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-json/wp/v2/posts/8b6ead2954d922d7a796b0c34dd0b87a.module(1): eval()
+#3 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-json/wp/v2/posts/htmcetfi.php(65): include('/home/pesavjoy/...')
+#4 /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-json/wp/v2/posts/htmcetfi.php(77): xe9()
+#5 {main}
+  thrown in /home/pesavjoy/mtfrancisco-mbwenimpiji.or.tz/public/wp-json/wp/v2/posts/8b6ead2954d922d7a796b0c34dd0b87a.module(1) : eval()'d code on line 28
